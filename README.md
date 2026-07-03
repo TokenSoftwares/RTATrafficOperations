@@ -1,4 +1,4 @@
-# AI Edge Mesh Traffic Control — Capstone Demo
+# AI Edge Mesh Traffic Control
 
 End-to-end simulation of an AI-powered edge mesh traffic control system for a three-intersection Dubai corridor (J1 → J2 → J3). Built for BUS310 presentation.
 
