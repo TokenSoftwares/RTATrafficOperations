@@ -1,0 +1,2 @@
+run_name,model,data,split,device,imgsz,batch,conf,iou,precision,recall,map50,map50_95,map75,save_dir
+exp1_arch_yolov8s_cpu_test,runs/detect/runs/detect/exp1_arch_yolov8s_cpu/weights/best.pt,data/yolo_sws405/data.absolute.yaml,test,cpu,640,4,0.001,0.7,0.6885946742721758,0.7122020669787805,0.7461238411372131,0.6054437013871279,0.6656909516892717,C:\Users\gsaih\Downloads\DELETE\SWS405\SWS405_Smart_Campus\paper_artifacts\experiment_1_architecture\ultralytics_val_runs\exp1_arch_yolov8s_cpu_test

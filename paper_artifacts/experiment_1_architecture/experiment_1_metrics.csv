@@ -1,0 +1,2 @@
+run_name,strategy,model,dataset,split,device,precision,recall,map50,map50_95,map75
+exp1_arch_yolov8s_cpu_test,Category A architecture upgrade,runs/detect/runs/detect/exp1_arch_yolov8s_cpu/weights/best.pt,data/yolo_sws405/data.absolute.yaml,test,cpu,0.6886,0.7122,0.7461,0.6054,0.6657

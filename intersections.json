@@ -1,0 +1,27 @@
+{
+  "corridor_name": "Dubai Sheikh Zayed Road Pilot Corridor",
+  "intersections": [
+    {
+      "id": "J1",
+      "name": "J1 — Al Safa Street Approach",
+      "lat": 25.2048,
+      "lng": 55.2708,
+      "neighbors": ["J2"]
+    },
+    {
+      "id": "J2",
+      "name": "J2 — Financial Centre Crossing",
+      "lat": 25.2085,
+      "lng": 55.2745,
+      "neighbors": ["J1", "J3"]
+    },
+    {
+      "id": "J3",
+      "name": "J3 — DIFC Gate Junction",
+      "lat": 25.2122,
+      "lng": 55.2782,
+      "neighbors": ["J2"]
+    }
+  ],
+  "emergency_route": ["J1", "J2", "J3"]
+}

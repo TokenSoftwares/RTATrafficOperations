@@ -1,0 +1,2 @@
+run_name,model,data,split,device,imgsz,batch,conf,iou,precision,recall,map50,map50_95,map75,save_dir
+baseline_models_best_test,models/best.pt,data/yolo_sws405/data.absolute.yaml,test,cpu,640,4,0.001,0.7,0.7800896220130817,0.5529437619048958,0.514488031077936,0.493922409943471,0.5028402410660155,C:\Users\gsaih\Downloads\DELETE\SWS405\SWS405_Smart_Campus\paper_artifacts\baseline\ultralytics_val_runs\baseline_models_best_test

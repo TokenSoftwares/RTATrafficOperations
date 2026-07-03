@@ -1,0 +1,42 @@
+[
+  {
+    "Class": "cctv_camera",
+    "Images": "20",
+    "Instances": "20",
+    "Box-P": 0.85863,
+    "Box-R": 0.9,
+    "Box-F1": 0.87883,
+    "mAP50": 0.93575,
+    "mAP50-95": 0.72953
+  },
+  {
+    "Class": "desktop_pc",
+    "Images": "23",
+    "Instances": "23",
+    "Box-P": 0.57824,
+    "Box-R": 0.43478,
+    "Box-F1": 0.49635,
+    "mAP50": 0.46714,
+    "mAP50-95": 0.29383
+  },
+  {
+    "Class": "router",
+    "Images": "28",
+    "Instances": "28",
+    "Box-P": 0.86771,
+    "Box-R": 0.78571,
+    "Box-F1": 0.82468,
+    "mAP50": 0.79423,
+    "mAP50-95": 0.66741
+  },
+  {
+    "Class": "smart_board",
+    "Images": "18",
+    "Instances": "18",
+    "Box-P": 0.51913,
+    "Box-R": 0.77778,
+    "Box-F1": 0.62266,
+    "mAP50": 0.83003,
+    "mAP50-95": 0.67895
+  }
+]

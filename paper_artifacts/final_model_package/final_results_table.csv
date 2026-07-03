@@ -1,0 +1,4 @@
+run,strategy,precision,recall,map50,map50_95,selected_for_final
+Baseline,Project 1 baseline,0.7801,0.5529,0.5145,0.4939,no
+Experiment 1,Architecture upgrade,0.6886,0.7122,0.7461,0.6054,no
+Experiment 2,Hyperparameter optimization and augmentation,0.7059,0.7246,0.7568,0.5924,yes

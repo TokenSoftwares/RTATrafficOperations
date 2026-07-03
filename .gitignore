@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+.venv/
+env/
+.env
+.env.*
+*.egg-info/
+.eggs/
+dist/
+build/
+*.egg
+
+# IDE / OS
+.DS_Store
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Runtime / demo outputs
+runs/
+
+# YOLO weights downloaded automatically on first run
+yolov8n.pt
+yolov8s.pt
+
+# Logs
+*.log
+
+# Local test artifacts
+.pytest_cache/
+.coverage
+htmlcov/

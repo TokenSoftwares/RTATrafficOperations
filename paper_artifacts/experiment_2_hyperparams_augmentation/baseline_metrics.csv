@@ -1,0 +1,2 @@
+run_name,model,data,split,device,imgsz,batch,conf,iou,precision,recall,map50,map50_95,map75,save_dir
+exp2_hyperparams_aug_yolov8s_cpu_test,runs/detect/exp2_hyperparams_aug_yolov8s_cpu/weights/best.pt,data/yolo_sws405/data.absolute.yaml,test,cpu,640,4,0.001,0.7,0.7059261846717966,0.7245686680469289,0.7567863844977364,0.5924309383669482,0.6448140155629659,C:\Users\gsaih\Downloads\DELETE\SWS405\SWS405_Smart_Campus\paper_artifacts\experiment_2_hyperparams_augmentation\ultralytics_val_runs\exp2_hyperparams_aug_yolov8s_cpu_test

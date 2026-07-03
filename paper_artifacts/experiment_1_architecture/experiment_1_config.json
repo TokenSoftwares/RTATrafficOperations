@@ -1,0 +1,17 @@
+{
+  "experiment": "Experiment 1: Architecture Upgrade",
+  "strategy_category": "Category A - Model & Architecture",
+  "strategy": "Upgrade/fine-tune a stronger YOLO architecture using the existing dataset only.",
+  "model": "yolov8s.pt",
+  "data": "data/yolo_sws405/data.absolute.yaml",
+  "epochs": 15,
+  "batch": 4,
+  "imgsz": 640,
+  "device": "cpu",
+  "seed": 405,
+  "patience": 5,
+  "project": "runs/detect",
+  "name": "exp1_arch_yolov8s_cpu",
+  "new_images_added": false,
+  "manual_annotation_performed": false
+}

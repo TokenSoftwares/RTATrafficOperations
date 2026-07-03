@@ -1,0 +1,10 @@
+path: data/yolo_sws405
+train: images/train
+val: images/val
+test: images/test
+
+names:
+  0: cctv_camera
+  1: desktop_pc
+  2: router
+  3: smart_board
